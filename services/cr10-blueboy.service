@@ -1,0 +1,13 @@
+[Unit]
+Description=The snappy web interface for your 3D printer
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Environment="LC_ALL=C.UTF-8"
+Environment="LANG=C.UTF-8"
+Type=exec
+User=octo
+ExecStart=/OctoFarm/octoprint/venv/bin/octoprint -b /OctoFarm/basedir/cr10-blueboy --port=8884
+[Install]
+WantedBy=multi-user.target

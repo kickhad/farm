@@ -1,0 +1,38 @@
+[
+    {
+        "name": "CR10 - BLUEBOY",
+        "group": "",
+        "printerURL": "http://172.16.1.106:8884",
+        "cameraURL": "",
+        "apikey": "octo0123456789"
+ 
+    },
+    {
+        "name": "CR10SP - CRISPY",
+        "group": "",
+        "printerURL": "http://172.16.1.106:8883",
+        "cameraURL": "",
+        "apikey": "octo0123456789"
+    },
+    {
+        "name": "E5P - STEADY",
+        "group": "",
+        "printerURL": "http://172.16.1.106:8882",
+        "cameraURL": "",
+        "apikey": "octo0123456789"
+    },
+    {
+        "name": "E5P - HANK",
+        "group": "",
+        "printerURL": "http://172.16.1.106:8881",
+        "cameraURL": "",
+        "apikey": "octo0123456789"
+    },
+    {
+        "name": "E5P - GARY",
+        "group": "",
+        "printerURL": "http://172.16.1.106:8880",
+        "cameraURL": "",
+        "apikey": "octo0123456789"
+    }
+]

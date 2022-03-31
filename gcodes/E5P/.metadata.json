@@ -1,0 +1,124 @@
+{
+  "BU.gcode": {
+    "hash": "9112e51791db30a1d3a1c15856cf651daa83cd56",
+    "history": [
+      {
+        "timestamp": 1648284280.1527295,
+        "printTime": 33573.592881046934,
+        "success": true,
+        "printerProfile": "_default"
+      }
+    ],
+    "statistics": {
+      "averagePrintTime": {
+        "_default": 33573.592881046934
+      },
+      "lastPrintTime": {
+        "_default": 33573.592881046934
+      }
+    },
+    "analysis": {
+      "printingArea": {
+        "maxX": 316.616,
+        "maxY": 308.932,
+        "maxZ": 195.12,
+        "minX": 2.0,
+        "minY": 10.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 298.932,
+        "height": 195.12,
+        "width": 314.616
+      },
+      "estimatedPrintTime": 26089.990915505594,
+      "filament": {
+        "tool0": {
+          "length": 76971.42772003193,
+          "volume": 185.13798001901458
+        }
+      }
+    }
+  },
+  "Dual-Z_Alignment_Bar_2h1m_0.24mm_218C_PLA_ENDER5PLUS.gcode": {
+    "hash": "413db418024f723cd116cf9e68a39a0234d9bf98",
+    "analysis": {
+      "printingArea": {
+        "maxX": 215.568,
+        "maxY": 224.068,
+        "maxZ": 28.08,
+        "minX": 2.0,
+        "minY": 10.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 214.068,
+        "height": 28.08,
+        "width": 213.568
+      },
+      "estimatedPrintTime": 6031.143805885236,
+      "filament": {
+        "tool0": {
+          "length": 11138.244629999817,
+          "volume": 26.790617932362125
+        }
+      }
+    }
+  },
+  "CE5P_bottom plate (1)abc.gcode": {
+    "hash": "eac809f4bc8d3b5b5e64dd3d2ad4c2578aa79488",
+    "analysis": {
+      "printingArea": {
+        "maxX": 261.5,
+        "maxY": 274.0,
+        "maxZ": 56.32,
+        "minX": 10.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 254.0,
+        "height": 56.32,
+        "width": 251.4
+      },
+      "estimatedPrintTime": 19671.264541387343,
+      "filament": {
+        "tool0": {
+          "length": 61886.28503999976,
+          "volume": 0.0
+        }
+      }
+    },
+    "history": [
+      {
+        "timestamp": 1648513152.2758694,
+        "success": false,
+        "printerProfile": "_default"
+      },
+      {
+        "timestamp": 1648514252.0744312,
+        "success": false,
+        "printerProfile": "_default"
+      },
+      {
+        "timestamp": 1648515660.142953,
+        "success": false,
+        "printerProfile": "_default"
+      },
+      {
+        "timestamp": 1648538490.3301702,
+        "printTime": 22807.672828458002,
+        "success": true,
+        "printerProfile": "_default"
+      }
+    ],
+    "statistics": {
+      "averagePrintTime": {
+        "_default": 22807.672828458002
+      },
+      "lastPrintTime": {
+        "_default": 22807.672828458002
+      }
+    }
+  }
+}

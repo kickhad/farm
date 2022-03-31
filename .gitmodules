@@ -1,0 +1,3 @@
+[submodule "OctoFarm"]
+	path = OctoFarm
+	url = https://github.com/OctoFarm/OctoFarm.git
