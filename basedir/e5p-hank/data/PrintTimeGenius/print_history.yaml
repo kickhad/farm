@@ -1,0 +1,44 @@
+print_history:
+- analysisFirstFilamentPrintTime: 35.48877809811893
+  analysisLastFilamentPrintTime: 17723.088172076583
+  analysisPrintTime: 17753.886903011975
+  compensatedPrintTime: 17753.886903011975
+  firstFilamentPrintTime: 449.7810697269888
+  lastFilamentPrintTime: 18263.31318129599
+  payload:
+    name: BH2.gcode
+    origin: local
+    owner: octo
+    path: BH2.gcode
+    size: 7933653
+    time: 18294.759799388994
+  timestamp: 1648693873.0921693
+- analysisFirstFilamentPrintTime: 35.48877809812075
+  analysisLastFilamentPrintTime: 1722.643592531931
+  analysisPrintTime: 1762.7818681667359
+  compensatedPrintTime: 1762.7818681667359
+  firstFilamentPrintTime: 456.67515438300325
+  lastFilamentPrintTime: 2240.3733097680088
+  payload:
+    name: Parmetric_Extrusion_L_T_Bracket.gcode
+    origin: local
+    owner: octo
+    path: Parmetric_Extrusion_L_T_Bracket.gcode
+    size: 751763
+    time: 2281.664871125002
+  timestamp: 1648673750.572079
+- analysisFirstFilamentPrintTime: 35.48877809812075
+  analysisLastFilamentPrintTime: 1722.643592531931
+  analysisPrintTime: 1762.7818681667359
+  compensatedPrintTime: 1762.7818681667359
+  firstFilamentPrintTime: 458.4851564760029
+  lastFilamentPrintTime: 2256.399763251
+  payload:
+    name: Parmetric_Extrusion_L_T_Bracket.gcode
+    origin: local
+    owner: octo
+    path: Parmetric_Extrusion_L_T_Bracket.gcode
+    size: 751763
+    time: 2297.480222598999
+  timestamp: 1648670429.8724217
+version: 2.2.8

@@ -1,0 +1,12 @@
+octo:
+  active: true
+  apikey: null
+  groups:
+  - users
+  - admins
+  password: 39eff95691fc3f56483474ed6d99bc171db648bdb4c3e45cc45903d686a44f9db81b9e7e212cdb2e439100d08c713659e64e55221a6688dde1cfb92142152a62
+  permissions: []
+  roles:
+  - user
+  - admin
+  settings: {}

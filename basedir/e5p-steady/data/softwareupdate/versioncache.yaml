@@ -1,0 +1,353 @@
+ABL_Expert:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: a33091d64e5859138db9b26d285fc290
+  information:
+    local:
+      name: '0.6'
+      value: '0.6'
+    remote:
+      name: '0.6'
+      value: '0.6'
+  online: true
+  possible: true
+  timestamp: 1648757472.2001119
+AutoTerminalInput:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 49d17163cb761a308cddfca7a422934b
+  information:
+    local:
+      name: 0.1.0
+      value: 0.1.0
+    needs_online: true
+    remote:
+      name: '-'
+      release_notes: null
+      value: null
+  online: true
+  possible: true
+  timestamp: 1648757472.1945455
+MultipleUpload:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 74c4d3ad3722221c32ab4096df125be6
+  information:
+    local:
+      name: 1.1.0
+      value: 1.1.0
+    needs_online: true
+    remote:
+      name: Python3 support
+      release_notes: https://github.com/eyal0/OctoPrint-MultipleUpload/releases/tag/1.1.0
+      value: 1.1.0
+  online: true
+  possible: true
+  timestamp: 1648757472.1973002
+PrintJobHistory:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 1ddba2c757e8972d4bb3db4599c15f28
+  information:
+    local:
+      name: 1.17.0
+      value: 1.17.0
+    needs_online: true
+    remote:
+      name: V1.17.0
+      release_notes: https://github.com/OllisGit/OctoPrint-PrintJobHistory/releases/tag/1.17.0
+      value: 1.17.0
+  online: true
+  possible: true
+  timestamp: 1648578824.3720899
+PrintTimeGenius:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 95ad555d3778808fa20e14cf1d0df76b
+  information:
+    local:
+      name: 2.2.8
+      value: 2.2.8
+    needs_online: true
+    remote:
+      name: Fix missing print history and height calculation
+      release_notes: https://github.com/eyal0/OctoPrint-PrintTimeGenius/releases/tag/2.2.8
+      value: 2.2.8
+  online: true
+  possible: true
+  timestamp: 1648757472.1964848
+UltimakerFormatPackage:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 8c5990d558b54217fe5544bd8d9f45c4
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.6127057
+Z_probe_offset:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 529c61e7294495a50156991bd6e89d12
+  information:
+    local:
+      name: '0.5'
+      value: '0.5'
+    remote:
+      name: '0.5'
+      value: '0.5'
+  online: true
+  possible: true
+  timestamp: 1648757474.6409147
+__version: 1.7.3
+autoselect:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: eb9b7b1a4e377bb63c915e2eb095cf7d
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.610256
+bedlevelvisualizer:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: bbdc97929c3b38f1afb78f104f4ad146
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.5527675
+cancelobject:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 807a1f450dadf72f1f12ec64d4e49764
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.6067367
+consolidate_temp_control:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: b68749a46a116bd1890a5c688ee26148
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.6035907
+continuousprint:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 39d5a1332de6e00348513f16f3fe9025
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.9231842
+detailedprogress:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 817f2ce7cf7ab0f4c840b4f0054001ef
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.977686
+eeprom_marlin:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: b46443eea93931cf77d2d7846bab8f8a
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.9876478
+file_check:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 1fd5482b4fa54235531810fa4bf95620
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.9714909
+firmware_check:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 2cc0c5c664767763a036f68d2318d063
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757472.9835374
+firmwareupdater:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 6f83680d179b288a790b195a1c9e1832
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.281505
+multilineterminal:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 6e4fea64c2f6e14ffbb7affec98cb1e5
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.3584945
+octoprint:
+  available: false
+  compatible: true
+  disabled: false
+  error: null
+  hash: 47050e1e93a50358c388a4359d8cdb2b
+  information:
+    local:
+      name: 1.7.3
+      value: 1.7.3
+    needs_online: true
+    remote:
+      name: 1.7.3
+      release_notes: https://github.com/OctoPrint/OctoPrint/releases/tag/1.7.3
+      value: 1.7.3
+  online: true
+  possible: true
+  timestamp: 1648757472.19802
+prettygcode:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: adb606b000454b896167a35aa688569e
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.3710136
+printhistory:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 2aab259999ae352d4d1fcef6ddc6fdc5
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.3684309
+prusaslicerthumbnails:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: d0a63de9b8a2821cca85c6bd188c956d
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.3649063
+resource_monitor:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 6809d80861cb90e013da73c0b6d2de09
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.6600847
+taborder:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 2558a3362224c141180bdfbe6f805e99
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.7461948
+themeify:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 84fffb6a168d49098e5ee8e0a342596e
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.7557163
+title_status:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 17117f134444576d05434faf2a2ad9dd
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.7576523
+touchui:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 737073f22310fa68b07362cb9aafca83
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757473.7604306
+ublmeshedit:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: c94dd9808049b3a7803721c12eb59968
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757474.0353153
+uicustomizer:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 741122d2e2a788c84c70a7bd8b3f0998
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757474.1158617
+widescreen:
+  available: false
+  compatible: true
+  disabled: false
+  error: ratelimit
+  hash: 182962245833b048323e92b2275deea0
+  information: {}
+  online: true
+  possible: false
+  timestamp: 1648757474.1102023

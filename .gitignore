@@ -1,9 +1,13 @@
 **/*.gcode
 OctoFarm/*
 octoprint/venv/
-basedir/*
-!**/_default.profile
-!basedir/*/*.yaml
 camera/
 !**/.empty
-!**/*.profile
+!**/_default.profile
+basedir/*/generated/*
+**/*.log
+**/*.log.*
+**/*.cache
+**/*.db
+**/.metadata.json
+**/*.backup

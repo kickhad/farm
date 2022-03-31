@@ -1,0 +1,16 @@
+print_history:
+- analysisFirstFilamentPrintTime: 35.560199764084246
+  analysisLastFilamentPrintTime: 42747.791606086925
+  analysisPrintTime: 42773.86886359751
+  compensatedPrintTime: 42773.86886359751
+  firstFilamentPrintTime: 353.51326003800204
+  lastFilamentPrintTime: 42599.997497100005
+  payload:
+    name: BH1.gcode
+    origin: local
+    owner: octo
+    path: BH1.gcode
+    size: 14450101
+    time: 42627.798208063
+  timestamp: 1648705867.8054714
+version: 2.2.8

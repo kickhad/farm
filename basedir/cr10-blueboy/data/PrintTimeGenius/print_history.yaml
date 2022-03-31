@@ -1,0 +1,16 @@
+print_history:
+- analysisFirstFilamentPrintTime: 45.48877809811893
+  analysisLastFilamentPrintTime: 23727.500218381098
+  analysisPrintTime: 23736.392317082828
+  compensatedPrintTime: 23736.392317082828
+  firstFilamentPrintTime: 122.843477153001
+  lastFilamentPrintTime: 25308.349502753
+  payload:
+    name: BI_6h44m_0.56mm_218C_PLA_CR10.gcode
+    origin: local
+    owner: octo
+    path: BI_6h44m_0.56mm_218C_PLA_CR10.gcode
+    size: 10020093
+    time: 25325.282564798006
+  timestamp: 1648690027.8866477
+version: 2.2.8

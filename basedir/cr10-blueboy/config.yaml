@@ -1,0 +1,184 @@
+accessControl:
+  salt: Ff1Dj0J5Aye6PSDgZQa3fQWfFQhjB9Xi
+api:
+  allowCrossOrigin: true
+  key: octo123456789
+appearance:
+  name: CR10-BLUEBOY
+plugins:
+  ABL_Expert:
+    max_index: 4
+  PrintJobHistory:
+    lastPluginDependencyCheck: 1.17.0
+    pluginCheckActivated: false
+  announcements:
+    _config_version: 1
+    channels:
+      _blog:
+        read_until: 1645700400
+      _important:
+        read_until: 1521111600
+      _octopi:
+        read_until: 1646055600
+      _plugins:
+        read_until: 1647406800
+      _releases:
+        read_until: 1648553400
+  bedlevelvisualizer:
+    _config_version: 1
+  discovery:
+    upnpUuid: a9b7f08d-f747-4258-998e-33aa3b1ce4b9
+  errortracking:
+    unique_id: 90ca3497-e1e0-4415-ba5c-9e6ee2d93287
+  firmwareupdater:
+    _config_version: 3
+    _selected_profile: 0
+    profiles:
+    - _id: 0
+      _name: Default
+  gcodeviewer:
+    _config_version: 1
+  resource_monitor:
+    _config_version: 1
+  softwareupdate:
+    _config_version: 9
+  taborder:
+    _config_version: 5
+  tracking:
+    enabled: true
+    unique_id: 6336ed80-81ae-4a29-a11e-dd7c160e8018
+  uicustomizer:
+    mainTabs:
+    - - timelapse_link
+      - true
+      - false
+      - fas fa-film
+      - true
+      - false
+    - - term_link
+      - true
+      - false
+      - fas fa-terminal
+      - true
+      - false
+    - - gcode_link
+      - true
+      - false
+      - fab fa-codepen
+      - true
+      - false
+    - - tab_plugin_consolidate_temp_control_link
+      - true
+      - false
+      - false
+      - textOnly
+      - '#000000'
+    - - tab_plugin_bedlevelvisualizer_link
+      - true
+      - false
+      - false
+      - textOnly
+      - '#000000'
+    - - tab_plugin_cancelobject_link
+      - true
+      - false
+      - false
+      - textOnly
+      - '#000000'
+    - - tab_plugin_continuousprint_link
+      - true
+      - false
+      - false
+      - textOnly
+      - '#000000'
+    - - tab_plugin_eeprom_marlin_link
+      - true
+      - false
+      - false
+      - textOnly
+      - '#000000'
+    - - tab_plugin_printhistory_link
+      - true
+      - false
+      - false
+      - textOnly
+      - '#000000'
+    - - tab_plugin_prettygcode_link
+      - true
+      - false
+      - false
+      - textOnly
+      - '#000000'
+    - - tab_plugin_resource_monitor_link
+      - true
+      - false
+      - false
+      - textOnly
+      - '#000000'
+    - - tab_plugin_ublmeshedit_link
+      - true
+      - false
+      - false
+      - textOnly
+      - '#000000'
+    rows:
+    - _00#connection_wrapper: true
+      _01#files_wrapper: true
+      _02#sidebar_plugin_firmware_check_warning_wrapper: false
+      _03#sidebar_plugin_firmware_check_info_wrapper: false
+    - _00div.UICmainTabs: true
+    - _00#UICGcodeVWidget: true
+      _01#UICTempWidget: true
+      _02#UICWebCamWidget: true
+      _03#sidebar_plugin_action_command_notification_wrapper: true
+      _04#state_wrapper: true
+    themeVersion: 0.2.9.5
+    topIconSort:
+    - navbar_plugin_touchui
+    - navbar_plugin_firmwareupdater
+    - navbar_plugin_prettygcode
+    - navbar_plugin_cancelobject
+    - navbar_plugin_action_command_prompt
+    - navbar_plugin_logging_seriallog
+    - navbar_plugin_logging_plugintimingslog
+    widths:
+    - '3'
+    - '6'
+    - '3'
+  virtual_printer:
+    _config_version: 1
+printerProfiles:
+  default: _default
+serial:
+  additionalPorts:
+  - /dev/ttyCR10_Blueboy
+  autoconnect: true
+  baudrate: 115200
+  blacklistedPorts:
+  - /dev/ttyUSB*
+  - /dev/ttyACM*
+  - /dev/ttyS*
+  port: /dev/ttyCR10_Blueboy
+server:
+  commands:
+    serverRestartCommand: systemctl restart cr10sp-crispy.service
+  firstRun: false
+  onlineCheck:
+    enabled: true
+  pluginBlacklist:
+    enabled: true
+  secretKey: wLpoUoHYOsvpnhYJ3BYP7RvYvc7nVc1K
+  seenWizards:
+    backup: null
+    corewizard: 4
+    tracking: null
+temperature:
+  profiles:
+  - bed: 100
+    chamber: null
+    extruder: 210
+    name: ABS
+  - bed: 60
+    chamber: null
+    extruder: 180
+    name: PLA

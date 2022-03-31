@@ -1,5 +1,13 @@
-SUBSYSTEM=="tty", ENV{ID_SERIAL_SHORT}=="AM00N2AI", SYMLINK+="ttyCR10SP", MODE="0666"
-SUBSYSTEM=="tty", ENV{ID_SERIAL_SHORT}=="AR0K9Y5J", SYMLINK+="ttyE5P_Gary", MODE="0666"
-SUBSYSTEM=="tty", ENV{ID_SERIAL_SHORT}=="AR0K9XWJ", SYMLINK+="ttyE5P_Hank", MODE="0666"
-SUBSYSTEM=="tty", ENV{ID_SERIAL_SHORT}=="AR0K4K52", SYMLINK+="ttyE5P_Steady", MODE="0666"
-SUBSYSTEM=="tty", ENV{ID_SERIAL_SHORT}=="AM004Q7Z", SYMLINK+="ttyCR10_Blueboy", MODE="0666"
+Clone into /OctoFarm
+
+Setup virtualenv
+>>> cd octoprint
+>>> bash setup.sh
+
+Install systemd services:
+
+>>> sudo cp services/*.service /etc/systemd/system/
+
+Udev rules:
+>>> cat 99-usb.rules > /etc/udev/rules.d
+
