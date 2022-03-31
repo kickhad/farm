@@ -5,4 +5,5 @@ basedir/*
 !**/_default.profile
 !basedir/*/*.yaml
 camera/
-# !basedir/cr10-blueboy/printerProfiles/*
+!**/.empty
+!**/*.profile
